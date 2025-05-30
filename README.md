@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍲 API Resep Masakan GraphQL
 
 API untuk mengelola resep masakan dengan fitur lengkap menggunakan GraphQL
@@ -75,3 +76,7 @@ Dibuat dengan ❤️ menggunakan:
 - Node.js
 - Express
 - GraphQL
+=======
+# IAE_TUGAS3_GRAPHQL
+IAE_TUGAS3_GRAPHQL
+>>>>>>> 8087b136bf6cc80b3d250d72fbcfd3b5d0d41bf3
